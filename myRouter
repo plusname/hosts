@@ -1,3 +1,21 @@
+127.0.0.1 255.255.255.255 broadcasthost 	
+127.0.0.1 local
+127.0.0.1 localhost							
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain				
+127.0.0.1 localhost.localdomain
+255.255.255.255 broadcasthost
+::1 ip6-localhost
+::1 ip6-loopback
+::1 localhost
+::1 settings-win.data.microsoft.com
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
 0.0.0.0 -x3.vindicosuite.com
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0-edge-chat-latest.facebook.com
@@ -105105,19 +105123,3 @@
 0.0.0.0 _autodiscover._tcp.agkn.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
 0.0.0.0 ___id___.c.mystat-in.net
-127.0.0.1 255.255.255.255 broadcasthost 	
-127.0.0.1 local
-127.0.0.1 localhost							
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain				
-127.0.0.1 localhost.localdomain
-255.255.255.255 broadcasthost
-::1 ip6-localhost
-::1 ip6-loopback
-::1 localhost
-::1 settings-win.data.microsoft.com
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
