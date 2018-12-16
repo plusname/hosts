@@ -9,10 +9,10 @@
 #https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
 #https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
 #https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/Ads-tracker.txt
+#https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
-127.0.0.1 local
 255.255.255.255 broadcasthost
 ::1 localhost
 ::1 ip6-localhost
@@ -4803,6 +4803,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a-g02s02.insnw.net
 0.0.0.0 a-g06s02.insnw.net
 0.0.0.0 a-g07s02.insnw.net
+0.0.0.0 a-graph.facebook.com
 0.0.0.0 a-h2-instartops-001.insnw.net
 0.0.0.0 a-h2-instartops-002-nzr-telstra.insnw.net
 0.0.0.0 a-h2-instartops-002-telstra.insnw.net
@@ -26727,6 +26728,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.au
+0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.it
 0.0.0.0 adservice.google.nl
 0.0.0.0 adservices.cmp.advertising.com
@@ -31287,6 +31289,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 applog.camera360.com
 0.0.0.0 applog.uc.cn
 0.0.0.0 applovin.com
+0.0.0.0 applvn.com
 0.0.0.0 applyfix.tech
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 appmetrica.yandex.net
@@ -33097,6 +33100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 azz.badazz.org
 0.0.0.0 azzvkcavtgwp.com
 0.0.0.0 b-1st.com
+0.0.0.0 b-api.facebook.com
 0.0.0.0 b-as1.stripcdn.com
 0.0.0.0 b-aws.aol.com
 0.0.0.0 b-aws.huffingtonpost.com
@@ -33122,6 +33126,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b-eu7.stripcdn.com
 0.0.0.0 b-eu8.stripcdn.com
 0.0.0.0 b-eu9.stripcdn.com
+0.0.0.0 b-graph.facebook.com
 0.0.0.0 b-online.de
 0.0.0.0 b-ring.msedge.net
 0.0.0.0 b-srvjsr.media.net
@@ -43004,6 +43009,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clients.pointroll.com
 0.0.0.0 clients.rootsecure.org
 0.0.0.0 clients.tbo.com
+0.0.0.0 clients1.google.com
 0.0.0.0 clientstats.advertising.com
 0.0.0.0 clientstream.intuit.launchdarkly.com
 0.0.0.0 cliffsideparknj.gov
@@ -46470,6 +46476,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 crash.steampowered.com
 0.0.0.0 crasheye.cn
 0.0.0.0 crashlogs.mobilegame.woniu.com
+0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashlytics.com
 0.0.0.0 crashreport-api.presage.io
 0.0.0.0 crateio.mktoweb.com
@@ -52526,6 +52533,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 edgarcounty-il.gov
 0.0.0.0 edge-e-balw.customer.io
 0.0.0.0 edge-eu-west-1.instana.io
+0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edge-skype-com.s-0001.s-msedge.net
 0.0.0.0 edge-us-west-2.instana.io
 0.0.0.0 edge-usw2.demdex.net
@@ -54304,6 +54312,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 euapi.ibm.xtify.com
 0.0.0.0 euapi.xtify.com
 0.0.0.0 euarbohjj.com
+0.0.0.0 euc.adserver.snapads.com
 0.0.0.0 euc1.dynamicyield.com
 0.0.0.0 eucainemkjwgw.download
 0.0.0.0 euco.pl
@@ -58823,6 +58832,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gconnect.ubi.com
 0.0.0.0 gcounter.hosting4u.net
 0.0.0.0 gcrqbzvwhz.bid
+0.0.0.0 gcs.sc-cdn.net
 0.0.0.0 gcsbr.voluumtrk.com
 0.0.0.0 gcujnsgvdq.com
 0.0.0.0 gcumuobqjbullfight.review
@@ -63701,6 +63711,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 id.get35.com
 0.0.0.0 id.gmads.mookie1.com
 0.0.0.0 id.google.com
+0.0.0.0 id.google.de
 0.0.0.0 id.gov
 0.0.0.0 id.kbmg.cz
 0.0.0.0 id.mediavine.com
@@ -70097,6 +70108,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 live.ca
 0.0.0.0 live.chartboost.com
 0.0.0.0 live.com
+0.0.0.0 live.direct.ly
 0.0.0.0 live.ec2.cxo.name
 0.0.0.0 live.gamesparks.net
 0.0.0.0 live.hyprmx.com
@@ -70495,6 +70507,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.kuwo.cn
 0.0.0.0 log.logrocket.io
 0.0.0.0 log.mmstat.com
+0.0.0.0 log.musical.ly
 0.0.0.0 log.netgeography.net
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.newsvine.com  
@@ -70788,6 +70801,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 logs.getsitecontrol.com
 0.0.0.0 logs.infoaxe.com
 0.0.0.0 logs.libuv.org
+0.0.0.0 logs.locarta.co
 0.0.0.0 logs.loggly.com  
 0.0.0.0 logs.logrocket.com
 0.0.0.0 logs.naukri.com
@@ -76079,6 +76093,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mqphkzwlartq.com
 0.0.0.0 mqpyllobxdrfiu.com
 0.0.0.0 mqs.ioam.de
+0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 mquebradillaspr.gov
 0.0.0.0 mquvqdhzgfyjl.com
 0.0.0.0 mqvxtuzsherjx.com
@@ -86712,6 +86727,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 post.update.wtag.adaptv.advertising.com
 0.0.0.0 post.update.zemanta.com
 0.0.0.0 postads24.com
+0.0.0.0 postback.pointwise.co
 0.0.0.0 postback.supersonicads.com
 0.0.0.0 postback.tune.com
 0.0.0.0 postback.unityads.unity3d.com
@@ -94830,6 +94846,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 services1.adtech.de
 0.0.0.0 services1.adtech.fr
 0.0.0.0 services1.adtech.us
+0.0.0.0 servicesupport.hicloud.com
 0.0.0.0 servicetick.com
 0.0.0.0 servidor2.upc.es
 0.0.0.0 serving-sys.com
@@ -121108,6 +121125,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.leadpub.com
 0.0.0.0 www.leads.demandbase.com
 0.0.0.0 www.leadtrackgo.com
+0.0.0.0 www.leanplum.com
 0.0.0.0 www.learn.bizible.com
 0.0.0.0 www.learn.marketo.com
 0.0.0.0 www.learn.mixpanel.com
@@ -128908,4 +128926,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 _autodiscover._tcp.agkn.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
 0.0.0.0 _thums.ero-advertising.com
-0.0.0.0 ___id___.c.mystat-in.net  
+0.0.0.0 ___id___.c.mystat-in.net
