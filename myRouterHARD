@@ -23,6 +23,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 ::1 settings-win.data.microsoft.com
 
+0.0.0.0 tparser.org
+0.0.0.0 iyfsearch.com
+
 0.0.0.0 живи-просто.рф
 0.0.0.0 -rotation.de
 0.0.0.0 -traffic.com
@@ -1679,6 +1682,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 3.ptp22.com
 0.0.0.0 30-day-change.com
 0.0.0.0 30.6.87.194.dynamic.dol.ru
+0.0.0.0 3000-od-reki.pl
 0.0.0.0 30001.hittail.com
 0.0.0.0 300ca0d0.space
 0.0.0.0 300sk.com
@@ -24953,6 +24957,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 agardomains.com
 0.0.0.0 agaz.gov
 0.0.0.0 agbmcom.112.2o7.net
+0.0.0.0 agdkom.net
 0.0.0.0 agegefpkbll.bid
 0.0.0.0 agegreetings.112.2o7.net
 0.0.0.0 agent.tamedia.com.tw
@@ -25339,6 +25344,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alisat.biz
 0.0.0.0 alisatilsner.com
 0.0.0.0 alissonluis-musico.sites.uol.com.br
+0.0.0.0 alisto-pozyczki.pl
 0.0.0.0 alive-ua.com
 0.0.0.0 alive.us.intellitxt.com
 0.0.0.0 alizedusud.free.fr
@@ -26129,6 +26135,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ankbmqtt.com
 0.0.0.0 ankenyiowa.gov
 0.0.0.0 ankieta-online.pl
+0.0.0.0 ankiety-konsumenckie.pl
 0.0.0.0 anklets.shengen.ru
 0.0.0.0 anl.gov
 0.0.0.0 anleqthwxxns.com
@@ -27648,6 +27655,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 av7df.voluumtrk.com
 0.0.0.0 avads.co.uk
 0.0.0.0 avalon.topbucks.com
+0.0.0.0 avangarza.pl
 0.0.0.0 avantlink.com
 0.0.0.0 avast-downloads.com
 0.0.0.0 avatar.truongton.net
@@ -29800,7 +29808,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bellevuewa.gov
 0.0.0.0 bellglobemediapublishing.122.2o7.net
 0.0.0.0 bellglovemediapublishing.122.2o7.net
-0.0.0.0 bellsandroses.pl
 0.0.0.0 bellserviceeng.112.2o7.net
 0.0.0.0 belmont-ma.gov
 0.0.0.0 belmont.ag
@@ -29856,6 +29863,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bertil.com
 0.0.0.0 berwyn-il.gov
 0.0.0.0 beryblog.ru
+0.0.0.0 besavia.pl
 0.0.0.0 besdns.brooks.af.mil
 0.0.0.0 beseen.com
 0.0.0.0 beseenad.looksmart.com
@@ -30123,6 +30131,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beyondhollywood.us.intellitxt.com
 0.0.0.0 beyondwhois.com
 0.0.0.0 beyourownaffiliate.com
+0.0.0.0 bezbiku.pro
 0.0.0.0 bezcmsrzx.com
 0.0.0.0 bezoglasa.online
 0.0.0.0 bezproudoff.cz
@@ -30763,7 +30772,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bomcl.richmetrics.com
 0.0.0.0 bomek.com
 0.0.0.0 bomjrcum.bid
-0.0.0.0 bon-do-marketu.pl
 0.0.0.0 bon7g.voluumtrk.com
 0.0.0.0 bondage-here.com
 0.0.0.0 bondage-porn.net
@@ -33860,7 +33868,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ccscpyeeiqhs.bid
 0.0.0.0 ccsctp09.genesisbci.net
 0.0.0.0 ccsctp10.genesisbci.net
-0.0.0.0 ccsolutions.com.pl
 0.0.0.0 ccstatic.highwebmedia.com
 0.0.0.0 cctv.adsunion.com
 0.0.0.0 ccudl.com
@@ -35343,7 +35350,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cl320.v4.adaction.se
 0.0.0.0 cl96rwprue.com
 0.0.0.0 claimfreerewards.com
-0.0.0.0 claimi8.com
 0.0.0.0 claimittn.gov
 0.0.0.0 clairton-pa.gov
 0.0.0.0 claitors.com
@@ -40965,7 +40971,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dnhgz729v27ca.cloudfront.net
 0.0.0.0 dni.agcdn.com
 0.0.0.0 dni.gov
-0.0.0.0 dnizbiotrue.pl
 0.0.0.0 dnjxoflvkvec.com
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dnntgcfejsg.bid
@@ -41492,11 +41497,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 doeco.ru
 0.0.0.0 doesok.top
 0.0.0.0 dofeb.frenchgerlemanelectric.com
-0.0.0.0 dofinancovani-vyukajazyku.cz
 0.0.0.0 dofinansowania-jezykowe.pl
+0.0.0.0 dofinansowanie-dolnoslaskie.pl
+0.0.0.0 dofinansowanie-kujawsko-pomorskie.pl
+0.0.0.0 dofinansowanie-lodzkie.pl
+0.0.0.0 dofinansowanie-lubelskie.pl
 0.0.0.0 dofinansowanie-malopolskie.pl
 0.0.0.0 dofinansowanie-mazowieckie.pl
 0.0.0.0 dofinansowanie-podkarpackie.pl
+0.0.0.0 dofinansowanie-podlaskie.pl
+0.0.0.0 dofinansowanie-slaskie.pl
+0.0.0.0 dofinansowanie-wielkopolskie.pl
 0.0.0.0 dog.ca
 0.0.0.0 dogbreedspicture.net
 0.0.0.0 dogcommerce.com
@@ -41619,22 +41630,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dot.gov
 0.0.0.0 dot.wp.pl
 0.0.0.0 dot2.eporner.com
-0.0.0.0 dotacja-dolnoslaskie.pl
-0.0.0.0 dotacja-lubelskie.pl
-0.0.0.0 dotacja-lubuskie.pl
-0.0.0.0 dotacje-kujawsko-pomorskie.pl
-0.0.0.0 dotacje-lodzkie.pl
-0.0.0.0 dotacje-malopolskie.pl
-0.0.0.0 dotacje-mazowieckie.pl
-0.0.0.0 dotacje-opolskie.pl
-0.0.0.0 dotacje-podkarpackie.pl
-0.0.0.0 dotacje-podlaskie.pl
-0.0.0.0 dotacje-pomorskie.pl
-0.0.0.0 dotacje-slaskie.pl
-0.0.0.0 dotacje-swietokrzyskie.pl
-0.0.0.0 dotacje-warminsko-mazurskie.pl
-0.0.0.0 dotacje-wielkopolskie.pl
-0.0.0.0 dotacje-zachodniopomorskie.pl
 0.0.0.0 dotcom-monitor.com
 0.0.0.0 dotcommedia.de
 0.0.0.0 dotcomsecrets.com
@@ -42500,6 +42495,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ebonyhead.com
 0.0.0.0 ebook4all.com.pl
 0.0.0.0 ebookeo.pl
+0.0.0.0 ebookipdf.pl
 0.0.0.0 ebru.br.ns.els-gms.att.net
 0.0.0.0 ebrvuzqkq.bid
 0.0.0.0 ebspiewapcta.com
@@ -43847,6 +43843,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eurekacentral.go2cloud.org
 0.0.0.0 eurekagold.net
 0.0.0.0 eurekster.com
+0.0.0.0 euresco.pl
 0.0.0.0 eurico.org
 0.0.0.0 eurifsiooyof.bid
 0.0.0.0 euro-linkindex.de
@@ -45026,6 +45023,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fettefrauen.net
 0.0.0.0 fettetitten.net
 0.0.0.0 fettzeppelin.de
+0.0.0.0 fevitum.pl
 0.0.0.0 ff.connextra.com
 0.0.0.0 ff1.telemetryverification.net
 0.0.0.0 ffahsidlivqb.bid
@@ -45142,6 +45140,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 file-error-09x38.gq
 0.0.0.0 file-share.pl
 0.0.0.0 file-share365.com
+0.0.0.0 file.co.pl
 0.0.0.0 file.freeddns.org
 0.0.0.0 file.ipinyou.com.cn
 0.0.0.0 filebase.me
@@ -47118,7 +47117,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gamma.aei.ca
 0.0.0.0 gammamaximum.com
 0.0.0.0 gamrfeed.vgchartz.com.9.302br.net
-0.0.0.0 gamroll.com
 0.0.0.0 gan.doubleclick.net
 0.0.0.0 gan.wavecdn.net
 0.0.0.0 ganeran.sarenet.es
@@ -47342,6 +47340,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gd7.doubleclick.net
 0.0.0.0 gd8.doubleclick.net
 0.0.0.0 gd9.doubleclick.net
+0.0.0.0 gdb-finance.pl
 0.0.0.0 gdbohhvoo.com
 0.0.0.0 gdc.indeed.com
 0.0.0.0 gde-default.hit.gemius.pl
@@ -47384,6 +47383,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geil.alon3.tk
 0.0.0.0 geizhals.oewabox.at
 0.0.0.0 gekko.coinnebula.com
+0.0.0.0 geldorbank.pl
 0.0.0.0 gelidlycupaq.download
 0.0.0.0 gelzg.voluumtrk.com
 0.0.0.0 gem.pl
@@ -48103,6 +48103,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 go.mobytrks.com
 0.0.0.0 go.mooncklick.com
 0.0.0.0 go.myimgt.com
+0.0.0.0 go.net-di20.stream
 0.0.0.0 go.oclaserver.com
 0.0.0.0 go.oclasrv.com
 0.0.0.0 go.onclasrv.com
@@ -48371,6 +48372,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 gotoo.com
 0.0.0.0 gotosportsbook.com
 0.0.0.0 gotowka-doreki.eu
+0.0.0.0 gotowkanadowod.pl
+0.0.0.0 gotowkanadzis.pl
 0.0.0.0 gotowkatutaj.pl
 0.0.0.0 gotoyoutube.us
 0.0.0.0 gotporn.info
@@ -48670,6 +48673,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 greatsimplicity.com
 0.0.0.0 gredinatib.org
 0.0.0.0 greeceny.gov
+0.0.0.0 green-kredyt.pl
 0.0.0.0 green.erne.co
 0.0.0.0 green.gov
 0.0.0.0 green.virtual-nights.com
@@ -48755,6 +48759,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 grt03.com
 0.0.0.0 grtduutw.bid
 0.0.0.0 grubpbrmek.com
+0.0.0.0 grumman.pl
 0.0.0.0 grunerandjahr.112.2o7.net
 0.0.0.0 grupamaxi.pl
 0.0.0.0 grupoblidoo.go2cloud.org
@@ -50577,6 +50582,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 i-mobi.pl
 0.0.0.0 i-mobile.co.jp
 0.0.0.0 i-podgladacz.pl
+0.0.0.0 i-store365.com
 0.0.0.0 i-stream.pl
 0.0.0.0 i-vengo.com
 0.0.0.0 i.11zz.com
@@ -52472,6 +52478,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 irontonmo.gov
 0.0.0.0 irony.world
 0.0.0.0 irozb.voluumtrk.com
+0.0.0.0 irpol24.pl
 0.0.0.0 irpopup.ir
 0.0.0.0 irqnaphizzes.review
 0.0.0.0 irrhjkuantnaa.bid
@@ -52977,7 +52984,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jewishheritagemonth.gov
 0.0.0.0 jeyuhcbagxbp.com
 0.0.0.0 jezqighae.bid
-0.0.0.0 jezyk500plus.pl
 0.0.0.0 jf.revolvermaps.com
 0.0.0.0 jf71qh5v14.com
 0.0.0.0 jfaqiomgvajb.com
@@ -53912,7 +53918,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kerncog-ca.gov
 0.0.0.0 kerplat.112.2o7.net
 0.0.0.0 kerrvilletx.gov
-0.0.0.0 keshefoundation.org
 0.0.0.0 kesllcmdcsbd.com
 0.0.0.0 kestrel.ospreymedialp.com
 0.0.0.0 keweenawbay-nsn.gov
@@ -54062,6 +54067,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kipnobwbyz.bid
 0.0.0.0 kippbeak.cf
 0.0.0.0 kiralyvidi.eu
+0.0.0.0 kirchbaum.pl
 0.0.0.0 kirdan.warman.nask.pl
 0.0.0.0 kirgo.at
 0.0.0.0 kirklandwa.gov
@@ -54257,6 +54263,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kople.voluumtrk.com
 0.0.0.0 kopticom.122.2o7.net
 0.0.0.0 korocbbktnw.bid
+0.0.0.0 korphan.pl
 0.0.0.0 korrelate.net
 0.0.0.0 kos.interseek.si
 0.0.0.0 kosdyvore.angelcities.com
@@ -54311,6 +54318,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kreapixel.go2cloud.org
 0.0.0.0 krebsmethod.com
 0.0.0.0 krebsmethod.it
+0.0.0.0 kredyt-na-pesel.pl
 0.0.0.0 krezqajxv.bid
 0.0.0.0 krgxtloi.bid
 0.0.0.0 krilxjkgttmp.com
@@ -54698,7 +54706,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lapescuit.2cnt.net
 0.0.0.0 lapiden.com
 0.0.0.0 lapitec.eu
-0.0.0.0 lapkowo.pl
 0.0.0.0 lapoo.net
 0.0.0.0 laportetx.gov
 0.0.0.0 lapsene.mii.lu.lv
@@ -56000,6 +56007,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lop.com
 0.0.0.0 lopdogmltbnbc.com
 0.0.0.0 lopocasport.com
+0.0.0.0 lopon.pl
 0.0.0.0 lopsidedspoon.com
 0.0.0.0 loquaxbingo.co.uk
 0.0.0.0 lord.ttn.net
@@ -57187,6 +57195,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mamamiabingo.com
 0.0.0.0 mamamidia.com
 0.0.0.0 mamilade.oewabox.at
+0.0.0.0 mamkase.pl
 0.0.0.0 manage.com
 0.0.0.0 manage001.adtech.de
 0.0.0.0 manage001.adtech.fr
@@ -58011,6 +58020,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mediadirectx.com
 0.0.0.0 mediadomain.com
 0.0.0.0 mediadvertising.ro
+0.0.0.0 mediaekspert24.pl
 0.0.0.0 mediafaze.com
 0.0.0.0 mediafile.pl
 0.0.0.0 mediaforce.com
@@ -63984,6 +63994,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oblivki-news.ru
 0.0.0.0 obnyujeibv.com
 0.0.0.0 obodwgqr.bid
+0.0.0.0 obos-ankiety.pl
 0.0.0.0 obozua.adocean.pl
 0.0.0.0 obqtccxcfjmd.com
 0.0.0.0 obs.nnm2.ru
@@ -64073,6 +64084,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 odkryjfb.pl
 0.0.0.0 odldyhreg.bid
 0.0.0.0 odliczamy.net
+0.0.0.0 odlootowy.pl
 0.0.0.0 odlwjmkfmqbuus.bid
 0.0.0.0 odmdr.voluumtrk.com
 0.0.0.0 odni.gov
@@ -64842,6 +64854,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 opinions.research-interactive.com
 0.0.0.0 opknogsela.bid
 0.0.0.0 oplaca-sie.pl
+0.0.0.0 oplacalna-gotowka.pl
 0.0.0.0 opm.gov
 0.0.0.0 opn-news.ru
 0.0.0.0 opoefqthl.bid
@@ -67220,6 +67233,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 polymorphicads.jp
 0.0.0.0 pomelo.gxeea.edu.cn
 0.0.0.0 pomfretct.gov
+0.0.0.0 pomocnapozyczka.pro
 0.0.0.0 pompanobeachfl.gov
 0.0.0.0 pompazilla.com
 0.0.0.0 pompey-ny.gov
@@ -67679,9 +67693,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 powr-counter.herokuapp.com
 0.0.0.0 poynette-wi.gov
 0.0.0.0 pozyczka-minutowa.pl
+0.0.0.0 pozyczka-sms.pl
+0.0.0.0 pozyczka-tanio-szybko.pl
+0.0.0.0 pozyczka.click
+0.0.0.0 pozyczkahit.pl
 0.0.0.0 pozyczki-inwestor.pl
 0.0.0.0 pozyczki-prywatne.com
 0.0.0.0 pozyczki-prywatne.com.pl
+0.0.0.0 pozyczkiprywatne.com
 0.0.0.0 pp-budpostach.com.ua
 0.0.0.0 pp-serve.newsinc.com
 0.0.0.0 pp.alphonso.tv
@@ -68583,6 +68602,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 punchjump.us.intellitxt.com
 0.0.0.0 punchsub.net
 0.0.0.0 punfbtrcvfdxl.com
+0.0.0.0 punkt-pozyczka.pl
 0.0.0.0 punlkhusprgw.com
 0.0.0.0 punvqjsvnmubxb.com
 0.0.0.0 puogotzrsvtg.com
@@ -70711,6 +70731,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 royalston-ma.gov
 0.0.0.0 royrichie.com
 0.0.0.0 rozcbrmng.bid
+0.0.0.0 rozsadnapozyczka.pl
 0.0.0.0 rp-online.met.vgwort.de
 0.0.0.0 rp.alcoholsoftcdn.com
 0.0.0.0 rp.filefactscdn.com
@@ -71101,6 +71122,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ryzrdgdvg.bid
 0.0.0.0 rzbbcjnrsbk.com
 0.0.0.0 rzeczyzadarmo.pl
+0.0.0.0 rzetelna-pozyczka.pl
 0.0.0.0 rzgiiioqfpny.com
 0.0.0.0 rzjbuovkp.bid
 0.0.0.0 rzr.tractionize.com
@@ -71737,7 +71759,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 santafenm.gov
 0.0.0.0 santamonicaca.gov
 0.0.0.0 santarosacahuilla-nsn.gov
-0.0.0.0 santos24.net
 0.0.0.0 sanya.vipc2f.com
 0.0.0.0 sapato01.webtrekk.net
 0.0.0.0 sapatoru.widget.criteo.com
@@ -72600,6 +72621,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 separtnership.com
 0.0.0.0 sequatchiecounty-tn.gov
 0.0.0.0 sequimwa.gov
+0.0.0.0 serendipitygalenite.club
 0.0.0.0 serenescreen-marine-aquarium.en.softonic.com
 0.0.0.0 sergarius.popunder.ru
 0.0.0.0 seriale.org.pl
@@ -73554,7 +73576,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 siihxeeb.com
 0.0.0.0 sijlnueeertd.com
 0.0.0.0 sijmp.com
-0.0.0.0 silawejherowo.pl
 0.0.0.0 silentmajoritypatriots.com
 0.0.0.0 siliconaction.com
 0.0.0.0 siliconera.us.intellitxt.com
@@ -76076,6 +76097,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stonington-ct.gov
 0.0.0.0 stop-sign.com
 0.0.0.0 stop-smoking.1.p2l.info
+0.0.0.0 stop-sms.pl
 0.0.0.0 stopalcoholabuse.gov
 0.0.0.0 stopbullying.gov
 0.0.0.0 stopfakes.gov
@@ -76337,6 +76359,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 suonvyzivnfy.com
 0.0.0.0 sup.adfox.ru
 0.0.0.0 supabets.com.gh
+0.0.0.0 super-tania-chwilowka.pl
 0.0.0.0 super.oewabox.at
 0.0.0.0 super88.club
 0.0.0.0 super8casino.com
@@ -76524,7 +76547,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 swfqsfewk.bid
 0.0.0.0 swgvpkwmojcv.com
 0.0.0.0 swhpgjkl.kyty.net
-0.0.0.0 swiatecznybon.pl
 0.0.0.0 swiatokazji.eu
 0.0.0.0 swiatpobran.pl
 0.0.0.0 swiezaki.weebly.com
@@ -76709,6 +76731,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 szaloneupusty.pl
 0.0.0.0 szamponrevita.pl
 0.0.0.0 szczepienie.info
+0.0.0.0 szczesliwagotowka.pl
 0.0.0.0 szemlelo.com
 0.0.0.0 szene1.oewabox.at
 0.0.0.0 szerencsejatek.hu
@@ -76725,6 +76748,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 szvzzuffxatb.com
 0.0.0.0 szxkkefabenx.bid
 0.0.0.0 szybka-pozyczka.com
+0.0.0.0 szybka-wyplata.pl
 0.0.0.0 szybkapozyczkateraz.pl
 0.0.0.0 szybki-przeglad.blogspot.com
 0.0.0.0 szynlslqxerx.com
@@ -79800,7 +79824,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 triumphrat.us.intellitxt.com
 0.0.0.0 trivia2mobile.com
 0.0.0.0 trix.net
-0.0.0.0 trixmaster.online
 0.0.0.0 trk*.sele.co
 0.0.0.0 trk.1cpa.ru
 0.0.0.0 trk.ablogica.com
@@ -80302,6 +80325,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 typo3.ero-advertising.com
 0.0.0.0 tyringham-ma.gov
 0.0.0.0 tyroo.com
+0.0.0.0 tysiaczek.pl
 0.0.0.0 tytzcsgxpaywui.bid
 0.0.0.0 tyvtfohnwmpu.bid
 0.0.0.0 tyxihxxtpumgm.bid
@@ -85747,9 +85771,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 vipdn123.blackapplehost.com
 0.0.0.0 viper.popunder.ru
 0.0.0.0 vipfastmoney.com
-0.0.0.0 vipfortnitecheats.com
 0.0.0.0 viphack.pro
 0.0.0.0 viplogin.553.clicksurecpa.com
+0.0.0.0 vipon.pl
 0.0.0.0 vippay.c.duba.net
 0.0.0.0 vipplaza-co-id.b.appier.net
 0.0.0.0 vipsports.eu
@@ -85899,6 +85923,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vlvowhlxxibn.com
 0.0.0.0 vlxgszdgmnay.com
 0.0.0.0 vm3.parabol.object.bg
+0.0.0.0 vm5apis.com
 0.0.0.0 vmay.com
 0.0.0.0 vmbkadalzr.bid
 0.0.0.0 vmco.adk2.co
@@ -87888,6 +87913,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wqzorzjhvzqf.com
 0.0.0.0 wrackgdnkgwg.download
 0.0.0.0 wrap.tradedoubler.com
+0.0.0.0 wraplo.pl
 0.0.0.0 wrapper.askmen.com
 0.0.0.0 wrapper.fileplanet.com
 0.0.0.0 wrapper.giga.de
@@ -97183,6 +97209,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wyandotte-nation-nsn.gov
 0.0.0.0 wybieraj-wygrywaj.pl
 0.0.0.0 wybierz-nagrode.pl
+0.0.0.0 wybierzpieniadze.pl
 0.0.0.0 wycampaignfinance.gov
 0.0.0.0 wyciskanie-pryszcza.blogspot.com
 0.0.0.0 wyciskaniepryszcza0.blogspot.com
@@ -97651,6 +97678,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--lt-68s.com
 0.0.0.0 xn--oogle-wmc.com
 0.0.0.0 xn--pandorabiuteria-qkd.pl
+0.0.0.0 xn--poyczaj-xwb.online.pl
 0.0.0.0 xn--ryield-heqxb4671gshxg.jmp9.com
 0.0.0.0 xn--ryield-hqmh5974xb8yg.jmp9.com
 0.0.0.0 xn--selma-lagerlf-tmb.stacken.kth.se
@@ -98625,6 +98653,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zebrabet.com.au
 0.0.0.0 zebradudka.com
 0.0.0.0 zebramart.ru
+0.0.0.0 zebrapozyczki.pl
 0.0.0.0 zebutal.1.p2l.info
 0.0.0.0 zed21.net
 0.0.0.0 zedo.com
@@ -99112,5 +99141,3 @@ ff02::3 ip6-allhosts
 0.0.0.0 zzzrtrcm2.com
 0.0.0.0 _thums.ero-advertising.com
 0.0.0.0 ___id___.c.mystat-in.net
-0.0.0.0 tparser.org
-0.0.0.0 iyfsearch.com
